@@ -1,4 +1,4 @@
-package org.lappsgrid.askme.web;
+package org.lappsgrid.askme.cli;
 
 /* DO NO EDIT. This file is geneated automatically by Maven. */
 /**
@@ -6,7 +6,7 @@ package org.lappsgrid.askme.web;
  */
 public final class Version
 {
-	private static final String version = "1.7.0-SNAPSHOT";
+	private static final String version = "1.0.0-SNAPSHOT";
 
 	public static String getVersion() { return version; }
 }
